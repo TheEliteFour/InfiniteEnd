@@ -1,0 +1,7 @@
+name: InfiniteEnd
+main: net.aesircraft.InfiniteEnd.InfiniteEnd
+version: V1.1
+load: startup
+description: The Infinite End Generator
+authors: [Xeology]
+commands: 
